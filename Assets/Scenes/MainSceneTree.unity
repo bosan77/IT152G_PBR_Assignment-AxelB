@@ -50951,6 +50951,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
+      propertyPath: m_RenderingLayerMask
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 172466283368158620, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
       propertyPath: m_StaticShadowCaster
       value: 0
       objectReference: {fileID: 0}
@@ -50964,6 +50969,12 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 2702245959939973462, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -5847264345701460399, guid: 8b018aa6d15e2894aabb4456cfca795a,
+        type: 3}
     - target: {fileID: 4623523777690751650, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -51049,6 +51060,23 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6686896152899067203, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7587754946311304052, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 3343626822680004907, guid: 39492d37ccd14454b8443c89e14d7d25,
+        type: 3}
+    - target: {fileID: 8993131384766400445, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 5841255367910523341, guid: a72a4a9b2e2569740baa32b8953f8b5f,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f482e259b53700b4890301a9e27e6a14, type: 3}
 --- !u!4 &1589925830 stripped
