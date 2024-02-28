@@ -18738,6 +18738,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1894155843}
     m_Modifications:
+    - target: {fileID: 16439655503379569, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
+        type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1962051800709045668, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -23503,17 +23508,17 @@ PrefabInstance:
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.940918
+      value: 4.979
       objectReference: {fileID: 0}
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.623
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.170227
+      value: -0.439
       objectReference: {fileID: 0}
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
@@ -26487,6 +26492,11 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 849837390727457844, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.32893473
+      objectReference: {fileID: 0}
     - target: {fileID: 1210279635779587553, guid: 52b4775c07dc89e49abbc8252a5b9999,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -26497,10 +26507,35 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4458052050543914748, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.93563235
+      objectReference: {fileID: 0}
     - target: {fileID: 4734612791453233011, guid: 52b4775c07dc89e49abbc8252a5b9999,
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6334066472888444109, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_LocalReferencePoint.x
+      value: -0.03233385
+      objectReference: {fileID: 0}
+    - target: {fileID: 6334066472888444109, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_LocalReferencePoint.y
+      value: 0.3117767
+      objectReference: {fileID: 0}
+    - target: {fileID: 6334066472888444109, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_LocalReferencePoint.z
+      value: 0.012140274
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535925167396785830, guid: 52b4775c07dc89e49abbc8252a5b9999,
+        type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 0.60416716
       objectReference: {fileID: 0}
     - target: {fileID: 7412442943045775309, guid: 52b4775c07dc89e49abbc8252a5b9999,
         type: 3}
@@ -26837,11 +26872,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1894155843}
     m_Modifications:
-    - target: {fileID: 16439655503379569, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
-        type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1962051800709045668, guid: 4c59021cfdcbf7b4ebb3938331d0b87b,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -33878,17 +33908,17 @@ PrefabInstance:
     - target: {fileID: 1751270512844037459, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.674011
+      value: 5.7120934
       objectReference: {fileID: 0}
     - target: {fileID: 1751270512844037459, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.623
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1751270512844037459, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.13699341
+      value: 0.59423363
       objectReference: {fileID: 0}
     - target: {fileID: 1751270512844037459, guid: a2df3e78b96006646a47ff855ed1908e,
         type: 3}
@@ -41639,17 +41669,17 @@ PrefabInstance:
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.6932983
+      value: 4.7313805
       objectReference: {fileID: 0}
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.623
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.1685181
+      value: -0.43729103
       objectReference: {fileID: 0}
     - target: {fileID: 8751747515220965410, guid: ad1388520e8578a4c918f0e94ae9b081,
         type: 3}
@@ -55437,7 +55467,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Version: 1
-  m_UsePipelineSettings: 0
+  m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
   m_CustomShadowLayers: 0
@@ -59499,7 +59529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Version: 1
-  m_UsePipelineSettings: 0
+  m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
   m_CustomShadowLayers: 0
